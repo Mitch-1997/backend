@@ -1,7 +1,6 @@
 class AirlinesController < ApplicationController
     def index
         airline = Airline.all
-        if airline
         render json: airline
     end
     def show
