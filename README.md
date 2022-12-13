@@ -19,15 +19,15 @@
 
 ### BDD (Behavior Driven Development)
 
-##### User logs in to page
+##### User signs in to page
 ##### User reviews the airline
 ##### Reviews is added to the database 
 
 
 ## Languages and Frameworks
 
-- React
-- JavaScript
+- Ruby
+- Ruby on Rails
 
 ## Known Bugs
 
@@ -39,11 +39,11 @@ Contributions to the project are welcome. Fork this repo to contribute.
 
 ## Setup Instructions
 
-HTTPS: `https://github.com/Mitch-1997/phase-4--Front-End`
+HTTPS: `https://github.com/Mitch-1997/backend`
 
-SSH: `git@github.com:Mitch-1997/phase-4--Front-End.git`
+SSH: `git@github.com:Mitch-1997/backend.git`
 
-## Back end:
+
 
 ### Available Here: `https://github.com/Mitch-1997/backend`
 
