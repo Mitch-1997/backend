@@ -12,7 +12,7 @@ class AirlinesController < ApplicationController
         if airline
         render json: airline, status: :created
         else
-            # render json: {error: airline.errors.full_messages}, status: :unprocessable_entity
+            render json: {error: airline.errors.full_messages}, status: :unprocessable_entity
         end
     end
     def update
