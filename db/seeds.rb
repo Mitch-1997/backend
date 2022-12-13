@@ -60,32 +60,32 @@ reviews = Review.create([
         airline_id: 2
     }
 ])
-#users = User.create([
-  #{
-    #username: "mitch",
-    #password_digest: "Come"
-  #},
-  #{
-    #username: "purity_k",
-    #password_digest: "22G"
-  #},
-  #{
-    #username: "Otieno@g",
-    #password_digest: "hsjy"
-  #},
-  #{
-    #username: "Alice",
-    #password_digest: "Alice@126"
-  #},
-  #{
-    #username: "polla",
-    #password_digest: "Polla36"
-  #},
-  #{
-    #username: "fancy@jeru",
-    #password_digest: "gstr@"
-  #}
-#])
+users = User.create([
+  {
+    username: "mitch",
+    password_digest: "Come"
+  },
+  {
+    username: "purity_k",
+    password_digest: "22G"
+  },
+  {
+    username: "Otieno@g",
+    password_digest: "hsjy"
+  },
+  {
+    username: "Alice",
+    password_digest: "Alice@126"
+  },
+  {
+    username: "polla",
+    password_digest: "Polla36"
+  },
+  {
+    username: "fancy@jeru",
+    password_digest: "gstr@"
+  }
+])
 
 # airline1= Airline.create(name: "United Airlines", image_url: "https://open-flights.s3.amazonaws.com/United-Airlines.png")
 
