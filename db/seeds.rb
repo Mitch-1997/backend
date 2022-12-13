@@ -87,8 +87,5 @@ users = User.create([
   }
 ])
 
-# airline1= Airline.create(name: "United Airlines", image_url: "https://open-flights.s3.amazonaws.com/United-Airlines.png")
-
-# review1 = Review.create(title: "Great airline", description: "I had an awsome time", airline_id: airline1.id)
 
 puts "done seeding"
