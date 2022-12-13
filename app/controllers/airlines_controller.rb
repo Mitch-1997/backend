@@ -16,7 +16,7 @@ class AirlinesController < ApplicationController
         end
     end
     def update
-        airline = Airline.find_by(id: params[:id])
+        # airline = Airline.find_by(id: params[:id])
         if airline
          airline.update(airline_params)
         render json: airline, status: :created
