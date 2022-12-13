@@ -16,7 +16,7 @@ class ReviewsController < ApplicationController
             review.delete
             head :no_content
         else
-          render json: {error:"Review not found"}, status: :unprocessable_entity
+          # render json: {error:"Review not found"}, status: :unprocessable_entity
         end
       end
       private
