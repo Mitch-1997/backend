@@ -44,9 +44,6 @@ HTTPS: `https://github.com/Mitch-1997/backend`
 SSH: `git@github.com:Mitch-1997/backend.git`
 
 
-
-### Available Here: `https://github.com/Mitch-1997/backend`
-
 ## Licence
 [`MIT LICENCE`] (LICENSE)
 
